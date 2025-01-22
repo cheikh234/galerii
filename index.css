@@ -1,0 +1,127 @@
+.hed{
+    /* display: flex; */
+    /* justify-content: center; */
+    
+}
+.def{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    flex-wrap: wrap;
+    overflow: hidden;
+    /* left: 2%; */
+
+
+}
+
+ol{
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    color: rgb(30, 30, 38);
+    overflow: hidden;
+}
+
+.sded{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    overflow: hidden;
+}
+.sdede{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    overflow: hidden;
+    /* gap: 5px; */
+}
+.sdedes{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    overflow: hidden;
+}
+.sdedest{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    overflow: hidden;
+}
+.sdedesto{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    overflow: hidden;
+}
+.sdedestoe{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    overflow: hidden;
+}
+
+.sdedestoer{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    overflow: hidden;
+}
+.sdedestoers{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    overflow: hidden;
+}
+
+.TT{
+    background-color: rgb(221, 227, 227);
+    height: 20vh;
+    position: relative;
+    top: -5px;
+    flex-wrap: wrap;
+    overflow: hidden;
+    
+}
+.OI{
+    height: 10vh;
+    background-color: white;
+    flex-wrap: wrap;
+    overflow: hidden;
+}
+.opl{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 16px;
+    flex-wrap: wrap;
+    overflow: hidden;
+}
+
+
+
+
+@media only  screen and (max-width: 768px)
+{
+
+
+   ol{
+    justify-content: space-between;
+    position: relative;
+    left: -6%;
+   }
+   
+  
+   
+}
+
+
+
+
+
+
+
+
+
+
+
